@@ -1,2 +1,2 @@
 # R_code
-R pojects
+R projects
