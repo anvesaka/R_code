@@ -24,7 +24,7 @@ k <- ggplot() +
   coord_map()+
   scale_fill_distiller(name="Rate per 100,000", palette = "Blues", breaks = pretty_breaks(n = 4))+
   theme_nothing(legend = TRUE)+
-  labs(title="Rate of Stupid Crap in Oregon")
+  labs(title="Rate of X in Oregon")
 k
 
 ###save as a png
