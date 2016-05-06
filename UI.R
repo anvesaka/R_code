@@ -1,5 +1,5 @@
 # Using the download button to build a file download.
-#Note that this only works in a borowser.
+#Note that this only works in a browser.
 
 library(shiny)
 
