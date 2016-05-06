@@ -1,5 +1,4 @@
 library(shiny)
-
 data(iris)
 
 #Initialization of server.R
